@@ -29,10 +29,12 @@
 </p>
 
 ---
+
 ###  Top Languages
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raza-Developer&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=dark&langs_count=6&count_private=true"/>
 </p>
+
 
 ---
 
