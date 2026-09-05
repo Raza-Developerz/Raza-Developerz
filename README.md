@@ -34,3 +34,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=dark"/>
 </p>
+### 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=dark&langs_count=6"/>
+</p>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raza-Developerz&show_icons=true&theme=dark"/>
+</p>
