@@ -29,17 +29,17 @@
 </p>
 
 ---
+### 📊 Top Languages
 
-###  Top languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
+
+
 --- 
-
-
-###  Github States
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raza-Developerz&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raza-Developerz&show_icons=true&theme=radical&hide_border=true"/>
 </p>
