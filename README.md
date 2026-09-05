@@ -30,11 +30,15 @@
 
 ---
 
-###  Top Languages
+###  Top languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raza-Developerz&layout=compact&theme=dark"/>
 </p>
-###  GitHub Stats
+
+--- 
+
+
+###  Github States
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raza-Developerz&show_icons=true&theme=dark"/>
